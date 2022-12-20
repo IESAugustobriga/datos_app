@@ -1,7 +1,7 @@
 {
     "Nuestro Centro": "https://iesaugustobriga.educarex.es/index.php/informacion2",
     "Novedades":"https://iesaugustobriga.educarex.es/",
-    "Plano del centro":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/plano/plano.png",
+    "Plano del centro":"https://raw.githubusercontent.com/IESAugustobriga/datos_app/main/plano/plano.png",
     "Profesorado":[
         {
             "apartado":"Organización",
@@ -19,31 +19,31 @@
     "Horarios":[
         {
             "modalidad":"Formación Profesional",
-            "enlace_lista":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/cursosFp.txt",
-            "enlace_carpeta":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/horarios/fp/",
+            "enlace_lista":"https://raw.githubusercontent.com/IESAugustobriga/datos_app/main/cursosFp.txt",
+            "enlace_carpeta":"https://raw.githubusercontent.com/IESAugustobriga/datos_app/main/horarios/fp/",
             "extension_imagenes":".png"
         },
         {
             "modalidad":"Bachillerato",
-            "enlace_lista":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/cursosBachillerato.txt",
-            "enlace_carpeta":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/horarios/bachillerato/",
+            "enlace_lista":"https://raw.githubusercontent.com/IESAugustobriga/datos_app/main/cursosBachillerato.txt",
+            "enlace_carpeta":"https://raw.githubusercontent.com/IESAugustobriga/datos_app/main/horarios/bachillerato/",
             "extension_imagenes":".png"
         },
         {
             "modalidad":"Educación Secundaria",
-            "enlace_lista":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/cursosEso.txt",
-            "enlace_carpeta":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/horarios/eso/",
+            "enlace_lista":"https://raw.githubusercontent.com/IESAugustobriga/datos_app/main/cursosEso.txt",
+            "enlace_carpeta":"https://raw.githubusercontent.com/IESAugustobriga/datos_app/main/horarios/eso/",
             "extension_imagenes":".png"
         }
     ],
     "Calendarios":[
         {
             "apartado":"Eso y Bachillerato",
-            "enlace":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/calendarios/Bachillerato.png"
+            "enlace":"https://raw.githubusercontent.com/IESAugustobriga/datos_app/main/calendarios/Bachillerato.png"
         },
         {
             "apartado":"F.P",
-            "enlace":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/calendarios/fp.png"
+            "enlace":"https://raw.githubusercontent.com/IESAugustobriga/datos_app/main/calendarios/fp.png"
         },
         {
             "apartado":"Recuperaciones",
