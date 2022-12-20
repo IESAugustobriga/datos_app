@@ -1,0 +1,55 @@
+{
+    "Nuestro Centro": "https://iesaugustobriga.educarex.es/index.php/informacion2",
+    "Novedades":"https://iesaugustobriga.educarex.es/",
+    "Plano del centro":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/plano/plano.png",
+    "Profesorado":[
+        {
+            "apartado":"Organización",
+            "enlace":"https://drive.google.com/file/d/1LR900S54WYp_XgWGIBHnw6ZS-pU1QkU3/view?usp=share_link"
+        },
+        {
+            "apartado":"Tutorías",
+            "enlace":"https://drive.google.com/file/d/1Py9p8Arh2vYhw24i86ZbwafIrEjGwUHK/view?usp=share_link"
+        },
+        {
+            "apartado":"Departamentos",
+            "enlace":"https://drive.google.com/file/d/1_uDHllhgiBFcvWw01eiz-NTzOjdJcnjR/view?usp=share_link"
+        }
+    ],
+    "Horarios":[
+        {
+            "modalidad":"Formación Profesional",
+            "enlace_lista":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/cursosFp.txt",
+            "enlace_carpeta":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/horarios/fp/",
+            "extension_imagenes":".png"
+        },
+        {
+            "modalidad":"Bachillerato",
+            "enlace_lista":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/cursosBachillerato.txt",
+            "enlace_carpeta":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/horarios/bachillerato/",
+            "extension_imagenes":".png"
+        },
+        {
+            "modalidad":"Educación Secundaria",
+            "enlace_lista":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/cursosEso.txt",
+            "enlace_carpeta":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/horarios/eso/",
+            "extension_imagenes":".png"
+        }
+    ],
+    "Calendarios":[
+        {
+            "apartado":"Eso y Bachillerato",
+            "enlace":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/calendarios/Bachillerato.png"
+        },
+        {
+            "apartado":"F.P",
+            "enlace":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/calendarios/fp.png"
+        },
+        {
+            "apartado":"Recuperaciones",
+            "enlace":"https://drive.google.com/file/d/19WNfWzF3WOhfMq19SFc57CT1i8_J8KHy/view?usp=share_link"
+        }
+    ],
+    "Youtube":"https://www.youtube.com/channel/UCYqTO4pG-fD9KPyjvdI3f6w",
+    "Radio":"https://radioedu.educarex.es/radioelcandil/"
+}
